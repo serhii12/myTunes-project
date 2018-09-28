@@ -2,4 +2,7 @@
 
 A fully-responsive and web accessible copy of Itunes design. Using CSS Grid and Flexbox. 
 
-https://serhii12.github.io/myTunes-project/
+[Link](https://serhii12.github.io/myTunes-project/e)
+
+
+Disclaimer: I do not own the design, nor I plan to monetize it in any way. For the most part I tried to replicate sections from this template without using any of their code.
